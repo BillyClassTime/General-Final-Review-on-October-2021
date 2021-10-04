@@ -1,0 +1,114 @@
+swagger: '2.0'
+info:
+  version: v1
+  title: My API
+paths:
+  /api/Destinations:
+    get:
+      tags:
+        - Destinations
+      operationId: ApiDestinationsGet
+      consumes: []
+      produces:
+        - text/plain
+        - application/json
+        - text/json
+      parameters: []
+      responses:
+        '200':
+          description: Success
+          schema:
+            uniqueItems: false
+            type: array
+            items:
+              $ref: '#/definitions/Destination'
+    post:
+      tags:
+        - Destinations
+      operationId: ApiDestinationsPost
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces: []
+      parameters:
+        - name: value
+          in: body
+          required: false
+          schema:
+            $ref: '#/definitions/Destination'
+      responses:
+        '200':
+          description: Success
+  '/api/Destinations/{id}':
+    get:
+      tags:
+        - Destinations
+      operationId: ApiDestinationsByIdGet
+      consumes: []
+      produces:
+        - text/plain
+        - application/json
+        - text/json
+      parameters:
+        - name: id
+          in: path
+          required: true
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+          schema:
+            $ref: '#/definitions/Destination'
+    put:
+      tags:
+        - Destinations
+      operationId: ApiDestinationsByIdPut
+      consumes:
+        - application/json-patch+json
+        - application/json
+        - text/json
+        - application/*+json
+      produces: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          type: integer
+          format: int32
+        - name: value
+          in: body
+          required: false
+          schema:
+            $ref: '#/definitions/Destination'
+      responses:
+        '200':
+          description: Success
+    delete:
+      tags:
+        - Destinations
+      operationId: ApiDestinationsByIdDelete
+      consumes: []
+      produces: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          type: integer
+          format: int32
+      responses:
+        '200':
+          description: Success
+definitions:
+  Destination:
+    type: object
+    properties:
+      id:
+        format: int32
+        type: integer
+      cityName:
+        type: string
+      airport:
+        type: string

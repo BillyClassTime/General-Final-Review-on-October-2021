@@ -1,0 +1,15 @@
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.deps.json
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.runtimeconfig.json
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.runtimeconfig.dev.json
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.dll
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Client.pdb
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Sdk.dll
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\bin\Debug\netcoreapp2.1\AutoRest.Sdk.pdb
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csprojAssemblyReference.cache
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.AssemblyInfoInputs.cache
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.AssemblyInfo.cs
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csproj.CoreCompileInputs.cache
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.csproj.CopyComplete
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.dll
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.pdb
+D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Client\obj\Debug\netcoreapp2.1\AutoRest.Client.genruntimeconfig.cache
