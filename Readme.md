@@ -1,8 +1,10 @@
-# General Review Final on October 2021
+# General Final Review on October 2021
 
 ## 1. Integrando Azure DevOps con Yo Teams
 
-​      Notas: https://www.wictorwilen.se/blog/deploying-yo-teams-and-node-apps/
+ 	Notas: https://www.wictorwilen.se/blog/deploying-yo-teams-and-node-apps/
+
+​	 Repo: [Summary - Overview (azure.com)](https://dev.azure.com/BrotonSmartLife/Integracion Office DevOps)			
 
 
 ## 2 . Module 3: Creating and Consuming ASP.NET Core Web APIs LIBRO - 20487
