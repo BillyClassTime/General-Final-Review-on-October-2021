@@ -1,21 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj": {}
+    "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj": {}
   },
   "projects": {
-    "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj": {
+    "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj",
+        "projectUniqueName": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj",
         "projectName": "HttpClientApplication.Client",
-        "projectPath": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj",
-        "packagesPath": "C:\\Users\\Billy Vanegas\\.nuget\\packages\\",
-        "outputPath": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\obj\\",
+        "projectPath": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\HttpClientApplication.Client.csproj",
+        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
+        "outputPath": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Billy Vanegas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -28,8 +35,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj": {
-                "projectPath": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj"
+              "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj": {
+                "projectPath": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj"
               }
             }
           }
@@ -65,22 +72,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj": {
+    "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj",
+        "projectUniqueName": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj",
         "projectName": "HttpClientApplication.Host",
-        "projectPath": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj",
-        "packagesPath": "C:\\Users\\Billy Vanegas\\.nuget\\packages\\",
-        "outputPath": "D:\\20487D\\AllFiles\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\obj\\",
+        "projectPath": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\HttpClientApplication.Host.csproj",
+        "packagesPath": "C:\\Users\\billy\\.nuget\\packages\\",
+        "outputPath": "D:\\Practicas Finales\\Mod03\\DemoFiles\\03_HttpClientApplication\\Starter\\HttpClientApplication.Host\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Billy Vanegas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\billy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -128,7 +142,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,3 +15,21 @@ D:\20487D\AllFiles\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcore
 D:\20487D\AllFiles\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.dll
 D:\20487D\AllFiles\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.pdb
 D:\20487D\AllFiles\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.genruntimeconfig.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.deps.json
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.runtimeconfig.json
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.runtimeconfig.dev.json
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.dll
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\bin\Debug\netcoreapp2.1\JQuaryClient.pdb
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.csproj.AssemblyReference.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.AssemblyInfoInputs.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.AssemblyInfo.cs
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.csproj.CoreCompileInputs.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorAssemblyInfo.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorAssemblyInfo.cs
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.RazorTargetAssemblyInfo.cache
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.dll
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.pdb
+D:\Practicas Finales\Mod03\DemoFiles\02_JavaScriptClient\Starter\obj\Debug\netcoreapp2.1\JQuaryClient.genruntimeconfig.cache

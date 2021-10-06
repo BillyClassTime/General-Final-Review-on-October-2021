@@ -1,0 +1,10 @@
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Practicas Finales\Mod03\LabFiles\Lab1\Starter\DAL\obj\Debug\netstandard2.0\DAL.pdb

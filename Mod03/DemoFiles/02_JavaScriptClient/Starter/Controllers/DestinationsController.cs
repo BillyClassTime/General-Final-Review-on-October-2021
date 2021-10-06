@@ -23,14 +23,14 @@ namespace JQuaryClient.Controllers
             _destinations.Add(new Destination { Id = 5, CityName = "Paris", Airport = "Charles De Gaulle" });
         }
 
-        // GET api/values
+        // GET api/Destinations
         [HttpGet]
         public ActionResult<IEnumerable<Destination>> Get()
         {
              return _destinations;
         }
 
-        // GET api/values/5
+        // GET api/Destinations/5
         [HttpGet("{id}")]
         public Destination Get(int id)
         {
@@ -41,19 +41,19 @@ namespace JQuaryClient.Controllers
             return destination;
         }
 
-        // POST api/values
+        // POST api/Destinations
         [HttpPost]
         public void Post([FromBody] string value)
         {
         }
 
-        // PUT api/values/5
+        // PUT api/Destinations/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
-        // DELETE api/values/5
+        // DELETE api/Destinations/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {

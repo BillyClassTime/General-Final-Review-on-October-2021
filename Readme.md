@@ -4,7 +4,7 @@
 
  	Notas: https://www.wictorwilen.se/blog/deploying-yo-teams-and-node-apps/
 
-​	 Repo: [Summary - Overview (azure.com)](https://dev.azure.com/BrotonSmartLife/Integracion Office DevOps)			
+​	 Repo: [Summary - Overview (azure.com)](https://dev.azure.com/BrotonSmartLife/_git/Integracion%20Office%20DevOps)			
 
 
 ## 2 . Module 3: Creating and Consuming ASP.NET Core Web APIs LIBRO - 20487

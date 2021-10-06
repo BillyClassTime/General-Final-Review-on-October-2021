@@ -20,7 +20,8 @@ namespace DAL.Database
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=Mod3Lab1DB;Trusted_Connection=True;");
+                //optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=Mod3Lab1DB;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=Mod3Lab1DB;Trusted_Connection=True;");
             }
         }
     }

@@ -15,3 +15,21 @@ D:\20487D\AllFiles\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientAp
 D:\20487D\AllFiles\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
 D:\20487D\AllFiles\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
 D:\20487D\AllFiles\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.genruntimeconfig.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.deps.json
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.runtimeconfig.json
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.runtimeconfig.dev.json
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\bin\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.csproj.AssemblyReference.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.AssemblyInfoInputs.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.AssemblyInfo.cs
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.csproj.CoreCompileInputs.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorAssemblyInfo.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorAssemblyInfo.cs
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.RazorTargetAssemblyInfo.cache
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.dll
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.pdb
+D:\Practicas Finales\Mod03\DemoFiles\03_HttpClientApplication\Starter\HttpClientApplication.Host\obj\Debug\netcoreapp2.1\HttpClientApplication.Host.genruntimeconfig.cache

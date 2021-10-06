@@ -11,11 +11,12 @@ namespace HttpClientApplication.Client
     {
         static  async Task Main(string[] args)
         {
-          HttpClientHandler clientHandler = new HttpClientHandler();
+         /* HttpClientHandler clientHandler = new HttpClientHandler();
           clientHandler.ServerCertificateCustomValidationCallback = 
-          (sender, ClientCertificateOption, ContextMarshalException, sslPolicyErrors) => {return true;};
+          (sender, ClientCertificateOption, ContextMarshalException, sslPolicyErrors) => {return true;};*/
 
-            using (var client = new HttpClient(clientHandler))
+            //using(var client = new HttpClient(clientHandler)) 
+            using (var client = new HttpClient())
             {
                 HttpResponseMessage message = await client.GetAsync("http://localhost:5000/api/destinations");
                 WriteLine("Response data as string");
@@ -29,7 +30,6 @@ namespace HttpClientApplication.Client
                 {
                     WriteLine($"{destination.CityName} - {destination.Airport}");
                 }
-
             }
         }
     }
