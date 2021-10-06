@@ -1,9 +1,0 @@
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.deps.json
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.dll
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\bin\Debug\netstandard2.0\AutoRest.Sdk.pdb
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csprojAssemblyReference.cache
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfoInputs.cache
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.AssemblyInfo.cs
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.csproj.CoreCompileInputs.cache
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.dll
-D:\20487D\AllFiles\Mod03\DemoFiles\06_AutoRest\Starter\AutoRest.Sdk\obj\Debug\netstandard2.0\AutoRest.Sdk.pdb
